@@ -1,0 +1,13 @@
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.deps.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.runtimeconfig.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.runtimeconfig.dev.json
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.dll
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\bin\Release\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.AssemblyInfoInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.AssemblyInfo.cs
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.dll
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\FunWithStrings\FunWithStrings\obj\Release\netcoreapp3.1\FunWithStrings.genruntimeconfig.cache
